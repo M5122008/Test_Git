@@ -9,6 +9,7 @@ public class SeleniumTest {
 	
 		
 		public static void main(String[] args) throws InterruptedException {
+			System.out.println("checking changes in development branch");
 	System.out.println("Good morning");
         System.out.println("Welcome");
 		WebDriver driver = new FirefoxDriver();		
