@@ -77,7 +77,7 @@ public class SeleniumTest {
 	        System.out.println("LogOut Successfully");
 	 
 	        // Close the driver
-	 
+	 	System.out.println("closing all the windows");
 	        driver.quit();
 		*/
 	}
