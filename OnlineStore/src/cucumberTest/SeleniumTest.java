@@ -78,6 +78,7 @@ public class SeleniumTest {
 	 
 	        // Close the driver
 	 	System.out.println("closing all the windows");
+		System.out.println("changing some text");
 	        driver.quit();
 		*/
 	}
