@@ -9,7 +9,7 @@ public class SeleniumTest {
 	
 		
 		public static void main(String[] args) throws InterruptedException {
-
+	System.out.println("Good morning");
         System.out.println("Welcome");
 		WebDriver driver = new FirefoxDriver();		
         String baseUrl = "http://automationpractice.com/index.php?controller=my-account";
